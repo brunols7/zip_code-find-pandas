@@ -3,6 +3,8 @@ from selenium.webdriver.common.by import By
 from time import sleep
 import pandas as pd
 
+# Zip code of Brazil.
+# made by brunols7
 
 #CEP number
 num_cep = int(input('Enter the zip code: '))
